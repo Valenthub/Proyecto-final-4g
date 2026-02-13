@@ -19,7 +19,7 @@ Este repositorio documenta el diseño e implementación de un **SGSI** basado en
 ## 🛠️ Stack Tecnológico
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Análisis/Auditoría** | Nmap, Gobuster |
+| **Análisis/Auditoría** | Nmap, Gobuster, Nessus |
 | **Defensa/Monitoreo** | Wazuh, Symantec DLP, Digital Guardian |
 | **Gestión/Frameworks** | NIST, ISO 27001, ENS |
 | **Sistemas** | Linux (Debian, Ubuntu, Kali), MariaDB |
